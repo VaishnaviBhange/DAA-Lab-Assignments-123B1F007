@@ -1,0 +1,111 @@
+
+Enter truck capacity (in kg): 250
+
+--- Brute Force Result ---
+Max Utility: 1385
+Time Taken: 1.956 ms
+
+Items Selected (DP):
+- Instant Meals
+- Oxygen Cylinders
+- Power Banks
+- Dry Fruits
+- Satellite Phone
+- Flashlights
+- Clothes
+- Batteries
+- Fuel Cans
+- First Aid Kits
+- Tents
+- Water Bottles
+- Food Supplies
+- Medical Kits
+
+--- Dynamic Programming Result ---
+Max Utility: 1385
+Time Taken: 6.995 ms
+
+Items Selected (Greedy Approximation):
+- Satellite Phone
+- Power Banks
+- First Aid Kits
+- Dry Fruits
+- Flashlights
+- Batteries
+- Instant Meals
+- Medical Kits
+- Oxygen Cylinders
+- Food Supplies
+- Water Bottles
+- Tents
+- Fuel Cans
+- Clothes
+
+--- Greedy Result ---
+Approx Utility: 1385.0
+Time Taken: 5.884 ms
+
+--- Multi-Truck Allocation Report ---
+
+Truck 1 (Capacity: 250 kg)
+
+Items Selected (DP):
+- Clothes
+- Fuel Cans
+- Tents
+- Water Bottles
+- Food Supplies
+- Oxygen Cylinders
+- Medical Kits
+- Instant Meals
+- Batteries
+- Flashlights
+- Dry Fruits
+- First Aid Kits
+- Power Banks
+- Satellite Phone
+? Total Utility Loaded: 1385
+
+Truck 2 (Capacity: 270 kg)
+
+Items Selected (DP):
+- Blankets
+- Clothes
+- Fuel Cans
+- Tents
+- Water Bottles
+- Food Supplies
+- Oxygen Cylinders
+- Medical Kits
+- Instant Meals
+- Batteries
+- Dry Fruits
+- First Aid Kits
+- Power Banks
+- Satellite Phone
+? Total Utility Loaded: 1425
+
+Truck 3 (Capacity: 290 kg)
+
+Items Selected (DP):
+- Blankets
+- Clothes
+- Fuel Cans
+- Tents
+- Water Bottles
+- Food Supplies
+- Oxygen Cylinders
+- Medical Kits
+- Instant Meals
+- Batteries
+- Flashlights
+- Dry Fruits
+- First Aid Kits
+- Power Banks
+- Satellite Phone
+? Total Utility Loaded: 1465
+
+--- Performance Summary ---
+Brute Force Time: 1.956 ms
+Dynamic Programming Time: 6.995 ms
+Greedy Time: 5.884 ms
