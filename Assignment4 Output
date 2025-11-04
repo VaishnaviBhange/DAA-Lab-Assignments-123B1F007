@@ -1,0 +1,23 @@
+
+Enter number of intersections: 6
+Enter number of roads: 7
+Enter roads as: startNode endNode travelTime(mins)
+0 1 4
+0 2 2
+1 2 1
+1 3 5
+2 3 8
+2 4 10
+3 5 6
+Ambulance starting intersection: 0
+Number of hospitals: 2
+Enter hospital node indices: 4 5
+
+Calculating shortest travel paths...
+
+--- Emergency Route ---
+Ambulance start: 0
+Hospital nodes: [4, 5]
+Nearest hospital: 4 (Travel time: 12 mins)
+Shortest path: 0 -> 2 -> 4
+Execution time: 3.448 ms
