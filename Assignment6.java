@@ -1,4 +1,7 @@
 /*
+NAME:Vaishnavi Dada Bhange
+PRN:123B1F007
+DATE:
 ASSIGNMENT 6:
 PROBLEM STATEMENT:
 Disaster Relief Resource Allocation Optimization
@@ -178,3 +181,4 @@ public class Assignment6 {
         sc.close();
     }
 }
+
