@@ -1,3 +1,10 @@
+ //ASSIGNMNET 3
+// NAME:Vaishnavi Dada Bhnage
+// PRN:123B1F007
+// DATE:
+
+
+
 import java.util.*;
 
 class Item {
@@ -98,3 +105,4 @@ public class Assignment3 {
         fractionalKnapsack(items, capacity);
     }
 }
+
