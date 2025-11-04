@@ -1,0 +1,11 @@
+
+Greedy Exam Slots: [0, 1, 1, 0, 1, 0]
+Welsh-Powell Exam Slots: [0, 1, 1, 0, 1, 0]
+DSATUR Exam Slots: [0, 1, 1, 0, 1, 0]
+
+Room Allocation per Slot:
+Exam Slot 0: Courses [0, 3]
+Exam Slot 1: Courses [1, 2, 5]
+Exam Slot 2: Courses [4]
+
+Execution Time: 35 ms
