@@ -1,7 +1,7 @@
  //ASSIGNMNET 3
 // NAME:Vaishnavi Dada Bhnage
 // PRN:123B1F007
-// DATE:
+// DATE:8-8-25
 
 
 
@@ -105,4 +105,5 @@ public class Assignment3 {
         fractionalKnapsack(items, capacity);
     }
 }
+
 
